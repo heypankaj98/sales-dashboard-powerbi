@@ -20,4 +20,4 @@ This Power BI project analyzes retail sales data across different regions and pr
 - `dashboard.png`
 
 ## 📷 Screenshot
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](/dashboard.png)
